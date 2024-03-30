@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222863684265",
+    "project_id": "food-discover-project-tii09i",
+    "storage_bucket": "food-discover-project-tii09i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222863684265:android:84c89ed213bb18bc5c2fb8",
+        "android_client_info": {
+          "package_name": "com.mycompany.fooddiscoverproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTvv9snChnbKxH9_RbjNjOQyxOsO2x4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
